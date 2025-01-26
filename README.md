@@ -8,15 +8,13 @@ __B.A., Computer Science / Minor in Japanese | CUNY Queens College (*May 2024*)_
 - **GPA**: `3.6/4.0`; *Cum Laude*
 
 ## Work Experience
-**Administrative Assistant**
-
+**Administrative Assistant** \
 Permanent Mission of Brazil to the United Nations (*July 2024 - Present*)
 - Developed a mobile and web application using Google App Sheet to monitor the organization’s vehicle expenses, assign tasks to drivers, and provide vehicle usage data to the administration department
 - Processed driver task data and built visualizations using Pandas and Matplotlib to compile reports analyzing the efficacy of transportation services provided to foreign dignitaries
 - Automated the processing of credentials requests for the 79th UN General Assembly using Google Forms and Microsoft Power Automate, reducing the percentage of manually processed requests by 90%
 
-**Data Science Fellow**
-
+**Data Science Fellow** \
 CUNY Tech Prep (*June 2023 - Jun 2024*)
 - Selected for a competitive data science fellowship with students from across the 11 CUNY senior colleges where Fellows create technical projects using tools such as Python 3, Jupyter Notebooks, Pandas, Numpy, Scikit-learn, and SQL
 - Conducted exercises in exploratory data analysis using Jupyter Notebooks and Python modules such as Pandas, Numpy, and Seaborn
@@ -37,8 +35,6 @@ CUNY Tech Prep (*June 2023 - Jun 2024*)
 - Implemented a three-legged OAuth authentication process to ensure a secure connection to a user’s Google Drive account
 
 ## Skills
-**Technical Skills:** Python, SQL, Java, JavaScript
-
-**Tools:** VSCode, Jupyter Notebooks, BigQuery, Git
-
+**Technical Skills:** Python, SQL, Java, JavaScript \
+**Tools:** VSCode, Jupyter Notebooks, BigQuery, Git \
 **Languages:** Portuguese :brazil:, Japanese :jp:, Italian :it:, Spanish :es:
